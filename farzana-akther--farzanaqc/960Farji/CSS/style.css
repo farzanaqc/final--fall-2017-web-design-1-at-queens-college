@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:600');
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC:400,600');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+@media (max-width: 960px) {
+   body {
+      
+   }
+
+   #container {
+      max-width: 768px;
+   }
+}
+
+@media (max-width: 425px) {
+   body {
+      
+   }
+
+   #container {
+      max-width: 320px;
+   }
+}
+
+
+
+
+* {
+	text-align: center
+}
+
+img.logo {
+
+height: 300px;
+width: 400px;
+padding-top: 120px;
+
+
+}
+div.home {
+	
+	font-family: 'Oswald', sans-serif;
+	font-size: 2.2em;
+	
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	
+	
+}
+
+nav ul {
+		
+	margin: 0px;
+	padding: 5px 5px;
+	font-family: 'Spectral SC', serif;
+	font-size: 20px;
+	
+		
+}
+
+nav li {
+	display: inline;
+	margin-right: 40px;
+	
+}	
+
+nav li a {
+		
+		color: grey;
+		text-decoration: none;
+		
+		
+}
+
+nav li a:hover, nav li a.current {
+  
+  color: #000000;
+  
+  } 
+  
+  
+  
+#p1r1 {
+	
+	padding-top: 70px;
+	
+	
+}
+
+#p1r2 {
+	
+	padding-top: 50px
+	
+}
+
+#footer {
+	
+	padding-top: 40px;
+	
+}
+
+#envelope {
+	
+	padding-top: 50px;
+	
+	
+}
+
+#heading {
+		
+		font-family: 'Montserrat', sans-serif;
+		font-size: 1.7em;
+		padding-top: 40px;
+		letter-spacing: 10px;
+		
+		
+}
+
+#subheading {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.3em;	
+	padding-top: 5px;
+		
+}
+
+#profile_text {
+	
+	padding-top: 40px;
+    padding-bottom: 80px;	
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.0em;
+	text-align: justify;
+	text-justify: auto;
+	line-height: 150%;
+		
+}
+
+div.contact_text {
+	
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.0em;
+	padding-top: 100px;
+	
+}
+
+div.contact_detail {
+	
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.0em;
+	padding-top: 80px;
+	padding-bottom: 200px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
